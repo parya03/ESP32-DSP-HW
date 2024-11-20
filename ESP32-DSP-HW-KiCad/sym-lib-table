@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TLV320ADC3120IRTER")(type "KiCad")(uri "/Users/p7810456/Documents/ESP32-DSP-HW/KiCad_Parts_Libraries/Symbols/TLV320ADC3120IRTER.kicad_sym")(options "")(descr ""))
+)
